@@ -1,0 +1,10 @@
+# Base runtime deps
+-r requirements.txt
+
+# Development / CI
+pytest
+flake8
+mypy
+pre-commit
+black
+isort

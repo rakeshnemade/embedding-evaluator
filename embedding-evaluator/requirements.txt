@@ -1,0 +1,6 @@
+sentence-transformers>=2.2.2
+numpy
+scipy
+scikit-learn
+tqdm
+nltk
